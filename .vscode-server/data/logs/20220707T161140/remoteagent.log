@@ -1,0 +1,11 @@
+[2022-07-07 16:11:43.443] [remoteagent] [info] Extension host agent started.
+[2022-07-07 16:11:43.485] [remoteagent] [info] [127.0.0.1][9323603d][ManagementConnection] New connection established.
+[2022-07-07 16:11:43.489] [remoteagent] [info] [127.0.0.1][2e47fb82][ExtensionHostConnection] New connection established.
+[2022-07-07 16:11:44.685] [remoteagent] [info] [127.0.0.1][2e47fb82][ExtensionHostConnection] <285> Launched Extension Host Process.
+[2022-07-07 16:13:51.324] [remoteagent] [info] [127.0.0.1][9323603d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-07 16:13:51.374] [remoteagent] [info] [127.0.0.1][2e47fb82][ExtensionHostConnection] <285> Extension Host Process exited with code: 0, signal: null.
+[2022-07-07 16:13:53.960] [remoteagent] [info] [127.0.0.1][e72e4ba2][ManagementConnection] New connection established.
+[2022-07-07 16:13:53.966] [remoteagent] [info] [127.0.0.1][309e57ad][ExtensionHostConnection] New connection established.
+[2022-07-07 16:13:54.975] [remoteagent] [info] [127.0.0.1][309e57ad][ExtensionHostConnection] <307> Launched Extension Host Process.
+[2022-07-07 16:13:59.811] [remoteagent] [info] [127.0.0.1][e72e4ba2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-07 16:13:59.873] [remoteagent] [info] [127.0.0.1][309e57ad][ExtensionHostConnection] <307> Extension Host Process exited with code: 0, signal: null.
